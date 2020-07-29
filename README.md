@@ -8,3 +8,5 @@ Trying to program every day
 4. Hex output
 5. Pig latin word
 6. Pig latin sentence
+7. Ubbi dubbi
+8. Sorting a string
